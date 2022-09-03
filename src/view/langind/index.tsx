@@ -73,7 +73,7 @@ const LandingIndex = (): ReactElement<ReactNode> => {
                 </p>
             </div>
             <p className="reward-content">
-                100% get <span>RM 50</span>
+                100% {t('public.get')} <span>RM 50</span>
             </p>
         </div>
     )
